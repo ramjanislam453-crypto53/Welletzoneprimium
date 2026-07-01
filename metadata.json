@@ -1,0 +1,6 @@
+{
+  "name": "Wallet Zone",
+  "description": "Premium handcrafted royal leather store with admin controls, order tracking, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
